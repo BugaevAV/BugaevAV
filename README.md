@@ -3,16 +3,17 @@
 </div>
 
 ### Привет!
-я Алексадр Бугаев, python-разработчкик
+Алексадр Бугаев, python-разработчкик
 
 ### Вот что я умею
 - Django REST framework, Docker, Celery.  [Дипломная работа "API Сервис заказа товаров для розничных сетей".](https://github.com/BugaevAV/python-final-diplom)
 - PostgreSQL, Selenium, psycopg2, requests, VK-api. [Курсовой командный проект. Работа со сторонним API на примере VK-api](https://github.com/Netology-Team-5/VKinder)
 - Flask, Asyncio, Aiohttp, Celery, CI/CD на примере github [Домашние работы по теме "Python в вэб разработке".](https://github.com/BugaevAV/py-homeworks-web/tree/new)
 - Django, Django REST framework. [Домашние работы по фреймворку Django](https://github.com/BugaevAV/dj-project/tree/video)
+- SQL, sqlalchemy, psycopg2. [Работы с базами данных](https://github.com/BugaevAV/py-homeworks-db/tree/video), в том числе [на python](https://github.com/BugaevAV/py-homeworks-db/tree/SQLPY-76)
 
 ### Сертификаты
-- здесь будет сертификат(ы ??) нетологии
+- здесь будет сертификат(ы ??)
 
 ### Мои контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BugaevAV)
