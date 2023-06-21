@@ -12,8 +12,8 @@
 - Django, Django REST framework. [Домашние работы по фреймворку Django](https://github.com/BugaevAV/dj-project/tree/video)
 - SQL, sqlalchemy, psycopg2. [Работы с базами данных](https://github.com/BugaevAV/py-homeworks-db/tree/video), в том числе [на python](https://github.com/BugaevAV/py-homeworks-db/tree/SQLPY-76)
 
-### Сертификаты
-- здесь будет сертификат(ы ??)
+### Сертификаты, свидетельства, дипломы
+- Свидетельство об обучении: [Python-разработчик с нуля](https://drive.google.com/file/d/1YRD3p9B4JO6rNXAwRxZfDpjJ_zi_-MUQ/view?usp=sharing)
 
 ### Мои контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BugaevAV)
