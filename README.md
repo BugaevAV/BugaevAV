@@ -3,7 +3,7 @@
 </div>
 
 ### Привет!
-Алексадр Бугаев, python-разработчкик
+Алексадр Бугаев, python-разработчик
 
 ### Вот что я умею
 - Django REST framework, Docker, Celery.  [Дипломная работа "API Сервис заказа товаров для розничных сетей".](https://github.com/BugaevAV/python-final-diplom)
@@ -13,7 +13,7 @@
 - SQL, sqlalchemy, psycopg2. [Работы с базами данных](https://github.com/BugaevAV/py-homeworks-db/tree/video), в том числе [на python](https://github.com/BugaevAV/py-homeworks-db/tree/SQLPY-76)
 
 ### Сертификаты, свидетельства, дипломы
-- Свидетельство об обучении: [Python-разработчик с нуля](https://drive.google.com/file/d/1YRD3p9B4JO6rNXAwRxZfDpjJ_zi_-MUQ/view?usp=sharing)
+- Дипорм о профпереподготовке: [Python-разработчик с нуля](https://drive.google.com/file/d/179vfFzxWMhRkcRZlo-JOGuFftpnNmLtZ/view?usp=sharing)
 - Свидетельство об обучении: [Django: создание backend-приложений(дополнительно)](https://drive.google.com/file/d/1YRD3p9B4JO6rNXAwRxZfDpjJ_zi_-MUQ/view?usp=sharing)
 
 ### Мои контакты
