@@ -13,7 +13,7 @@
 - SQL, sqlalchemy, psycopg2. [Работы с базами данных](https://github.com/BugaevAV/py-homeworks-db/tree/video), в том числе [на python](https://github.com/BugaevAV/py-homeworks-db/tree/SQLPY-76)
 
 ### Сертификаты, свидетельства, дипломы
-- Дипорм о профпереподготовке: [Python-разработчик с нуля](https://drive.google.com/file/d/179vfFzxWMhRkcRZlo-JOGuFftpnNmLtZ/view?usp=sharing)
+- Диплом о проф. переподготовке: [Python-разработчик с нуля](https://drive.google.com/file/d/179vfFzxWMhRkcRZlo-JOGuFftpnNmLtZ/view?usp=sharing)
 - Свидетельство об обучении: [Django: создание backend-приложений(дополнительно)](https://drive.google.com/file/d/1YRD3p9B4JO6rNXAwRxZfDpjJ_zi_-MUQ/view?usp=sharing)
 
 ### Мои контакты
