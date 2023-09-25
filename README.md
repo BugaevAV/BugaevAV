@@ -14,6 +14,7 @@
 
 ### Сертификаты, свидетельства, дипломы
 - Диплом о проф. переподготовке: [Python-разработчик с нуля](https://drive.google.com/file/d/179vfFzxWMhRkcRZlo-JOGuFftpnNmLtZ/view?usp=sharing)
+- Свидетельство об обучении: [Python в веб-разработке](https://drive.google.com/file/d/16-SL18ampsfEOk4-8lKsqO9Uupp-x0aj/view?usp=sharing)
 - Свидетельство об обучении: [Django: создание backend-приложений(дополнительно)](https://drive.google.com/file/d/1YRD3p9B4JO6rNXAwRxZfDpjJ_zi_-MUQ/view?usp=sharing)
 
 ### Мои контакты
