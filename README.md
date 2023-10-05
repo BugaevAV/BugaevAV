@@ -5,7 +5,7 @@
 **Привет!**
 **Алексадр Бугаев, python-разработчик**
 
-### Вот что я умею
+<font size= "20">**Вот что я умею**</font>
 
 - Django REST framework, Docker, Celery.  [Дипломная работа "API Сервис заказа товаров для розничных сетей".](https://github.com/BugaevAV/python-final-diplom)
 - PostgreSQL, Selenium, psycopg2, requests, VK-api. [Курсовой командный проект. Работа со сторонним API на примере VK-api](https://github.com/Netology-Team-5/VKinder)
