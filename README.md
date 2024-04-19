@@ -6,9 +6,10 @@
 
 **Я, Александр Бугаев, python-разработчик**
 
-**Текущий стек :**
+**Текущий стек (Kuzovkin.info) :**
 Python(Flask), PostgreSQL, Docker, Docker-Compose, Redis, Celery, JavaScript, HTML, CSS, Git
 
+**Проекты в рамках обучения :**
 - Django REST framework, Docker, Celery.  [Дипломная работа "API Сервис заказа товаров для розничных сетей".](https://github.com/BugaevAV/python-final-diplom)
 - PostgreSQL, Selenium, psycopg2, requests, VK-api. [Курсовой командный проект. Работа со сторонним API на примере VK-api](https://github.com/Netology-Team-5/VKinder)
 - Flask, Asyncio, Aiohttp, Celery, CI/CD на примере github [Мини проекты в рамках курса «Python в веб-разработке»](https://github.com/BugaevAV/py-homeworks-web/tree/new)
