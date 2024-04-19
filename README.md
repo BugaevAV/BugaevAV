@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
 </div>
 
-**Привет!**
 
 **Я, Александр Бугаев, python-разработчик**
 
