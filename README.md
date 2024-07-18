@@ -1,7 +1,5 @@
 
 
-**Я, Александр Бугаев, python-разработчик**
-
 **Текущий стек (Kuzovkin.info) :**
 Python(Flask), PostgreSQL, Docker, Docker-Compose, Redis, Celery, JavaScript, HTML, CSS, Git
 
