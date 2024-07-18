@@ -1,6 +1,6 @@
 
 
-**Текущий стек (Kuzovkin.info) :**
+**Текущий стек :**
 Python(Flask), PostgreSQL, Docker, Docker-Compose, Redis, Celery, JavaScript, HTML, CSS, Git
 
 **Проекты в рамках обучения :**
