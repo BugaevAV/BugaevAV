@@ -1,6 +1,3 @@
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
-</div>
 
 
 **Я, Александр Бугаев, python-разработчик**
